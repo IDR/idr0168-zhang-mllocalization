@@ -79,7 +79,7 @@ columns:
           include: true
         - name: Primary Antibody Identifier
           clientname: Antibody Identifier URL
-          clientvalue: http://v18.proteinatlas.org/search/{{ value|urlencode }}
+          clientvalue: https://v19.proteinatlas.org/search/{{ value|urlencode }}
           include: true
         - name: Primary Antibody Name
           clientname: Antibody Name
