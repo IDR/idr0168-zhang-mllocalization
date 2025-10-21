@@ -16,7 +16,6 @@ defaults:
   # hidden in the client but will still be indexed by the searcher (yes/no)
   visible: true
   # Should empty values be omitted from the client display
-  omitempty: true
 
 columns:
 
@@ -78,7 +77,6 @@ columns:
         - name: Primary Antibody Identifier
           clientname: Antibody Identifier
           include: true
-          omitempty: true
         - name: Primary Antibody Identifier
           clientname: Antibody Identifier URL
           clientvalue: https://www.ncbi.nlm.nih.gov/nuccore/{{ value|urlencode }}
