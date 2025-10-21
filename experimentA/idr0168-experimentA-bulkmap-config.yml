@@ -83,6 +83,9 @@ columns:
           clientname: Antibody Identifier URL
           clientvalue: https://www.ncbi.nlm.nih.gov/nuccore/{{ value|urlencode }}
           include: true
+        - name: Primary Antibody Name
+          clientname: Antibody Name
+          omitempty: true
 
   - group:
       namespace: openmicroscopy.org/mapr/antibody/supplementary
@@ -123,3 +126,4 @@ advanced:
     - namespace: openmicroscopy.org/mapr/antibody
       keys:
         - Antibody Identifier
+        - Antibody Name
