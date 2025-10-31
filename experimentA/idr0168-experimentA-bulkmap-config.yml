@@ -24,7 +24,7 @@ columns:
 
   - name: Comment [Image File Comments]
     clientname: Image File Comments
-    include: true
+    include: false
 
   ######################################################################
   # mapr groups
@@ -89,7 +89,7 @@ columns:
       namespace: openmicroscopy.org/mapr/antibody/supplementary
       columns:
         - name: Comment [Primary Antibody]
-          clientname: Primary Antibody Comment
+          clientname: Antibody Comment
           include: true
         - name: Experimental Condition [Secondary Antibody]
           clientname: Secondary Antibody
