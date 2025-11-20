@@ -20,7 +20,7 @@ Study Public Release Date	2025-11-20
 # Study Publication				
 Study PubMed ID	39091825			
 Study Publication Title	Prediction of protein subcellular localization in single cells			
-Study Author List	Xinyi Zhang, Yitong Tseo, Yunhao Bai, Fei Chen, Caroline Uhler			
+Study Author List	Zhang X, Tseo Y, Bai Y, Chen F, Uhler C			
 Study PMC ID	PMC11291118			
 Study DOI	https://doi.org/10.1101/2024.07.25.605178			
 				
