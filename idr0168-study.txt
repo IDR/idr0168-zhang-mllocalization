@@ -18,11 +18,11 @@ Study BioImage Archive Accession	S-BIAD1891
 Study Public Release Date	2025-11-20			
 				
 # Study Publication				
-Study PubMed ID	39091825			
+Study PubMed ID	40360932			
 Study Publication Title	Prediction of protein subcellular localization in single cells			
 Study Author List	Zhang X, Tseo Y, Bai Y, Chen F, Uhler C			
-Study PMC ID	PMC11291118			
-Study DOI	https://doi.org/10.1101/2024.07.25.605178			
+Study PMC ID				
+Study DOI	https://doi.org/10.1038/s41592-025-02696-1			
 				
 # Study Contacts				
 Study Person Last Name	Bai	Chen	Uhler	
